@@ -1,0 +1,22 @@
+p{
+    color: rgb(107,142,35);
+    font-size: 30px;
+    font-family: "Lucida Console", Courier, monospace;
+    font-weight: oblique;
+    text-align: center;
+    border-style: ridge;
+    border-width: 5px;
+   border-color: rgb(205,133,63);;
+
+}
+body{
+    background-color: rgb(250, 235, 215)
+}
+
+h1 {
+    font-size: 70px;
+   color: rgb(238,130,238);
+    font-weight: normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
